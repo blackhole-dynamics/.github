@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/blackhole-dynamics/.github/main/profile/assets/blackhole-dynamics-banner-16x9.png" alt="Blackhole Dynamics banner">
+</p>
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/337348142?v=4" width="160" alt="Blackhole Dynamics logo">
 </p>
 
