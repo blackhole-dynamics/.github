@@ -1,13 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blackhole-dynamics/.github/main/profile/assets/blackhole-dynamics-banner-16x9.png" alt="Blackhole Dynamics banner">
+  <img src="https://raw.githubusercontent.com/blackhole-dynamics/.github/main/profile/assets/blackhole-dynamics-banner-16x9.png" alt="Blackhole Dynamics — Engineer the Unknown">
 </p>
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/337348142?v=4" width="160" alt="Blackhole Dynamics logo">
-</p>
-
-<h1 align="center">Blackhole Dynamics</h1>
-
-<p align="center"><strong>ENGINEER THE UNKNOWN</strong></p>
 
 <p align="center">
   Open-source software, engineering frameworks and modular systems.
