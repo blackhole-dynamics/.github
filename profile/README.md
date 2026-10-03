@@ -16,6 +16,8 @@
 
 Blackhole Dynamics is an independent engineering umbrella for open-source software, developer tooling, governance frameworks and modular system architectures.
 
+Our development process is deliberately AI-assisted and includes **vibe coding** as part of how ideas are explored, prototyped and iterated. AI is used extensively as an engineering collaborator, while architecture, governance, verification and release decisions remain under human control.
+
 The organization provides a stable home for projects while preserving individual authorship and contribution history.
 
 ## Engineering principles
